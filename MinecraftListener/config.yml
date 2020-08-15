@@ -1,0 +1,18 @@
+PlayerInteractEvent:
+  APPLE: 
+    - "10:say %p"
+  [物品名]:
+    - "几率:指令"
+PlayerItemConsumeEvent:
+  APPLE: 
+    - "10:say %p"
+  [物品名]:
+    - "几率:指令"
+PlayerShearEntityEvent:
+  SHEEP:
+    - "10:say %p"
+    - "几率:指令"
+PlayerInteractAtEntityEvent:
+  COW:
+    - "10:say %p"
+    - "几率:指令"

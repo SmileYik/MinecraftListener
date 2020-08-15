@@ -1,0 +1,13 @@
+name: EventCommand
+main:  com.github.eventcmd.EventCommand
+version: 0.0.1
+api-version: 1.15
+author: miSkYle
+commands:
+  ecommand:
+    description: Reload EventCommand
+    usage: /<command>
+permissions: 
+  EventCommand.admin:
+    description: Use Admin's Commands
+    default: op
